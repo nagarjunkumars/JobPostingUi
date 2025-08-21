@@ -25,6 +25,9 @@ const Create = () => {
         },
         {
           name: "Rust"
+        },
+        {
+          name: "React js"
         }
       ];
   const navigate = useNavigate();
